@@ -14,7 +14,7 @@ DAVE is particularly useful in domains such as **law, healthcare, finance, and r
 
 - **Search & Filter:** Retrieve documents using keyword-based and entity-driven faceted search.
 - **Explore:** Navigate documents based on extracted entities and metadata.
-- **Conversational AI:** Ask complex natural language questions and receive relevant document-based answers.
+- **Conversational AI:** Ask natural language questions and receive relevant document-based answers.
 - **Knowledge Consolidation:** Review and refine extracted annotations with user corrections.
 - **Human-in-the-loop (HITL) Approach:** Users can continuously refine system-generated annotations.
 
