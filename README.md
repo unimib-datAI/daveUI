@@ -25,4 +25,4 @@ Check out our demonstration video:
 
 ## License
 
-DAVE is open-source and released under the [Apache-2.0] License.
+DAVE is open-source and released under the [Apache-2.0](./LICENSE) License.
